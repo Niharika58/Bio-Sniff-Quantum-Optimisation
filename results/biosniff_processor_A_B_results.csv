@@ -1,0 +1,4 @@
+processor,problem,logical_qubits,physical_qubits,classical_optimum,ideal_best_reward,noisy_best_reward,noisy_valid_frequency,noisy_optimal_probability,cx_count,routing_cx_overhead_proxy,explicit_swap_count,circuit_depth,transpilation_seconds,classical_optimum_candidates,best_noisy_selection
+A,5-candidate study,5,5,1.1657,1.1657,1.1657,0.4814,0.0415,32,12,0,60,0.1824,"[2, 3, 4]","[2, 3, 4]"
+B,5-candidate study,5,9,1.1657,1.1657,1.1657,0.4785,0.041,26,6,0,41,0.0072,"[2, 3, 4]","[2, 3, 4]"
+B,full 9-candidate problem,9,9,1.4525,1.4525,1.4525,0.438,0.0046,114,42,0,131,0.0112,"[1, 6, 8]","[1, 6, 8]"
